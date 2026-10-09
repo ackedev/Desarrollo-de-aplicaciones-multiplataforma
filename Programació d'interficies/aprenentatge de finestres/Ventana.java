@@ -9,7 +9,6 @@ public class Ventana {
         JPanel controlPanel = new JPanel(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();
 
-        JLabel etiqueta = new JLabel("Volumen:");
         JSlider slider = new JSlider(0, 100, 50);
         JSlider slider2 = new JSlider(0, 100, 50);
         JButton boton1 = new JButton("Aceptar");
