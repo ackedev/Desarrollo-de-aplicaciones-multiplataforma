@@ -9,6 +9,7 @@
 node_modules/
 .pnpm-store/
 .expo/
+.vite/
 dist/
 dist-ssr/
 web-build/
