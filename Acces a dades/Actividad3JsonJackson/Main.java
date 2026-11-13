@@ -77,7 +77,6 @@ public class Main {
         return leerNumero(scanner);
     }
 
-    // Si un dato no es válido, repetimos ese paso en vez de cancelar la operación.
     public static int leerNumero(Scanner scanner) {
         while (scanner.hasNextLine()) {
             String entrada = scanner.nextLine().trim();
