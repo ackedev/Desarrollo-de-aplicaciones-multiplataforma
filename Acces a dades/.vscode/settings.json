@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/aleix/Code/Desarrollo de aplicaciones multiplataforma/Llibreries/jdom2-2.0.6.1.jar",
+        "Actividad3JsonJackson/lib/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

@@ -51,6 +51,8 @@ public class Main {
                         System.out.println(pelicula);
                     }
                     break;
+
+                
                 case 2:
                     System.out.println("Introduce el género:");
                     String genero = scanner.nextLine().trim();
